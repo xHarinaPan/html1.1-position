@@ -1,9 +1,8 @@
-# Tipo de usuario
-- [ ] Alfa
-- [ ] Bravo 
-- [ ] Charlie
-- [ ] Delta
-- [ ] Echo
+# Tipo de tecnología
+- [ ] HTML
+- [ ] CSS3 
+- [ ] docs
+
 
 # Seleccione el tipo de actividad
 - [ ] Feature
